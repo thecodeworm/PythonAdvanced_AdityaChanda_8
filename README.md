@@ -458,13 +458,13 @@ cd smart-winter-planner
 
 **Windows:**
 ```bash
-python -m venv venv
+python3.10 -m venv venv
 venv\Scripts\activate
 ```
 
 **macOS/Linux:**
 ```bash
-python3 -m venv venv
+python3.10 -m venv venv
 source venv/bin/activate
 ```
 
@@ -915,7 +915,7 @@ For questions, issues, or contributions:
 
 ```bash
 # Setup
-python -m venv venv
+python3.10 -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
