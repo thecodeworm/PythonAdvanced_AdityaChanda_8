@@ -926,10 +926,10 @@ python test_data_loading.py
 python test_preprocess.py
 
 # Model Training
-python test_lstm_training.py
+python train_lstm.py
 
 # Classifier Training
-python test_severity_classifier.py
+python test_severity_class.py
 
 # Application Launch
 python run_gui.py
