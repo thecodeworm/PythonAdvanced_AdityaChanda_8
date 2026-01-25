@@ -19,8 +19,8 @@ matplotlib>=3.7.0,<3.10.0
 seaborn>=0.12.0,<0.14.0
 
 # GUI Framework (Desktop Application)
-PyQt5>=5.15.0,<5.16.0
-PyQt5-sip>=12.11.0,<13.0.0
+PyQt6
+PyQt6-sip
 
 # Date/Time Utilities
 python-dateutil>=2.8.0,<3.0.0
