@@ -923,7 +923,7 @@ pip install -r requirements.txt
 python test_data_loading.py
 
 # Feature Engineering
-python test_preprocessing.py
+python test_preprocess.py
 
 # Model Training
 python test_lstm_training.py
