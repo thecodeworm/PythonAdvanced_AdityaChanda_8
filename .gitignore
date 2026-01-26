@@ -12,15 +12,7 @@
 # Keep the models directory
 !models/.gitkeep
 
-# ========================================
-# Reports & Figures
-# ========================================
-reports/figures/
-*.png
-*.jpg
-*.jpeg
-*.pdf
-*.svg
+
 
 
 
