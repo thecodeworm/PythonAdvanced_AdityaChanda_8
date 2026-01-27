@@ -25,3 +25,8 @@ PyQt6-sip
 # Date/Time Utilities
 python-dateutil>=2.8.0,<3.0.0
 pytz>=2023.3,<2025.0
+
+#Jupyter Notebooks (EDA)
+jupyter
+notebook
+ipykernel
