@@ -2,6 +2,7 @@
 
 **Winter Wonderland Python Advanced (DL/ML) Challenge**  
 *Codeyoung - Advanced Machine Learning & Deep Learning Project*
+**UPDATE! WON FIRST PLACE IN THE COMPETITION**
 
 ---
 
